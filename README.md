@@ -10,5 +10,5 @@ There is one inertial measurement unit (IMU) used in order to capture the dynami
 The entire work is a classification problem solved by extracting data points from the sensors. The software design is provided in the research.
 
 Contents:
-The arduino file "finaldatacode" consists of the arduino code necessary to extract the data from sensors. The algorithm for solving the classification problem is was solved in python environment in run time.
+The arduino file "DataExtraction" consists of the arduino code necessary to extract the data from sensors. The algorithm for solving the classification problem is was solved in python environment in run time.
 The code for realtime implementation will be provided once the paper is published.
