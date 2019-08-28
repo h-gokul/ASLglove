@@ -11,4 +11,3 @@ The entire work is a classification problem solved by extracting data points fro
 
 Contents:
 The arduino file "DataExtraction" consists of the arduino code necessary to extract the data from sensors. The algorithm for solving the classification problem is was solved in python environment in run time.
-The code for realtime implementation will be provided once the paper is published.
