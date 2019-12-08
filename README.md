@@ -8,6 +8,8 @@ The system comprises of 4 flex sensors which provide an analog signal correspond
 There is one inertial measurement unit (IMU) used in order to capture the dynamic motion of the hand while performing gestures. 
 
 The entire work is a classification problem solved by extracting data points from the sensors. The software design is provided in the research.
+Read about the paper at : https://ieeexplore.ieee.org/document/8875343
 
 Contents:
 The arduino file "DataExtraction" consists of the arduino code necessary to extract the data from sensors. The algorithm for solving the classification problem is was solved in python environment in run time.
+
