@@ -1,3 +1,5 @@
+#Real-time read and replication of a research on gesture recognition glove. https://ieeexplore.ieee.org/document/8016217
+
 int RDArray [9] = {0};
 int IArray[9] = {0};
 int FSArray[9] = {0};
